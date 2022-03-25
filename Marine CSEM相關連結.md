@@ -20,8 +20,6 @@ Marine CSEM 相關論文/文章
 | Vertical source, vertical receiver, electromagnetic technique for offshore hydrocarbon exploration                                      | https://reurl.cc/VjVZAb |O|
 | Comparison of the low-frequency variations of the vertical and horizontal components of the electric background field at the sea bottom | https://reurl.cc/OpWa99 |O|
 
-
-
 Marine CSEM 相關網頁
 | 網頁/公司名稱  | 內容大綱                         | 連結                    |
 | :------------ |:-------------------------------:| -----------------------:|
