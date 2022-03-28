@@ -1,8 +1,8 @@
 ## Marine CSEM 相關論文/文章
-| 標題 | 連結 | 有無下載檔案 |
-| :- | - | :-: |
+| 標題 | 連結 | 有無下載檔案 | 內容大綱 |
+| :- | - | :-: | :- |
 | Ten years of marine CSEM for hydrocarbon exploration | [連結](https://reurl.cc/xOVlLN) | O |
-| Sea Bed Logging (SBL), a new method for remote and direct identification of hydrocarbon filled layers in deepwater areas | [連結](https://reurl.cc/5G9M3V) | O |
+| Sea Bed Logging (SBL), a new method for remote and direct identification of hydrocarbon filled layers in deepwater areas | [連結](https://reurl.cc/5G9M3V) | O | 描述了一種稱為海床測井 (SBL) 的技術，一種海洋 CSEM 探測應用，可應用於深水區含油氣儲層的檢測和表徵問題。 |
 | Guided waves in marine CSEM | [連結](https://reurl.cc/9OmVQY) | O |
 | Three-dimensional adaptive higher order finite element simulation for geo-electromagnetics—a marine CSEM example | [連結](https://reurl.cc/nEG7jX) | O |
 | Bayesian inversion of marine CSEM data with a trans-dimensional self parametrizing algorithm | [連結](https://reurl.cc/2DRWGX) | O |
