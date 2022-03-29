@@ -13,6 +13,8 @@
 | Electromagnetic field analysis in the marine CSEM detection of homogeneous and inhomogeneous hydrocarbon 3D reservoirs | [連結](https://reurl.cc/Go2ezv) | O | 使用 3D 矢量有限元建模來計算複雜結構的各種非均勻儲層模型的電磁響應。 此外，研究了均質和非均質 3D 儲層內部的電磁場傳播，以及非均質和均質儲層的等效問題。 |
 | Bayesian inversion of marine CSEM data from the Scarborough gas field using a transdimensional 2-D parametrization | [連結](https://reurl.cc/7ezk9y) | O | 應用可逆jump Markov chain Monte Carlo method對受海洋受控源電磁數據約束的二維海底電阻率的貝葉斯後驗模型概率密度函數進行採樣。使用的方法完全避免了模型正則化。方法的結果是可以可視化和查詢的模型集合，以提供有關數據對地下的敏感性以及模型參數的分辨率水平的有意義的信息。算法是跨維度和自參數化的，其中二維深度部分內的電阻率單元的數量是可變的，它們的位置和幾何形狀也是可變的。兩項綜合研究證明了該算法在評估薄的、分段的、電阻性儲層中的應用。|
 | Detection and imaging sensitivity of the marine CSEM method | [連結](https://reurl.cc/LpGoe4) | O | 開發了一種形式主義來系統地研究海洋可控源電磁法對油氣勘探的敏感性，考慮到測量誤差。利用錯誤傳播來估計數據的不確定性，並發現貢獻發射器偶極矩的比例定性給出與獨立於偶極矩的噪聲貢獻不同的行為。 |
+| Microseisms and its impact on the marine-controlled source electromagnetic signal | [連結](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JB011024) | O | 研究了它們的 CSEM 數據並報告了電磁噪聲。研究了微震的作用。提出了一種新的算法並用於計算相干性。該算法有助於在時域和頻域中同時映射相干性值。 |
+| Marine Controlled Source Electromagnetic: The Campos Basin Experience | [連結](https://web.archive.org/web/20081204121833/http://www.otcnet.org/2006/tech_prog/sched/documents/otc180031.pdf) | O | 證明了已知的 mCSEM 響應儲層產生的異常，雖然被認為是“邊緣的”，但可以通過新的處理和解釋程序進行成像，並且異常與儲層之間存在明顯的相關性。展示了建議的工作流程如何增強我們的準確解釋“弱”異常的能力和確保從額外的 mCSEM 數據中獲得最大收益。 |
 
 ----
 
@@ -28,3 +30,5 @@
 | EMGS | Data Processing and Imaging | [連結](https://reurl.cc/6EzO3y) |
 | EMGS | Research & Development | [連結](https://reurl.cc/jk0ZZ1) |
 | EMGS | Technical articles | [連結](https://reurl.cc/g05yAR) |
+| Scripps Institution of Oceanography | The material available on this site to promote knowledge of marine EM methods.| [連結](https://marineemlab.ucsd.edu/) |
+| Offshore Technology Conference | Offers a diverse portfolio of events that are tailored to the offshore energy industry’s unique regional and technical needs. | [連結](https://www.otcnet.org/welcome) |
