@@ -67,7 +67,4 @@
 
 
 
-
-
-
-
+##### 參考資料 : (https://en.wikipedia.org/wiki/Geographic_coordinate_system) 、 (https://en.wikipedia.org/wiki/Earth_ellipsoid) 、 (https://sites.google.com/site/yehmatlablog/matlab-zuo-biao-zhuan-huan-cheng-shi) 、 (https://www.sunriver.com.tw/grid_tm2.htm) 、 (https://wiki.osgeo.org/wiki/Taiwan_datums#.E8.BD.89.E6.8F.9B.E5.8F.83.E6.95.B8)
